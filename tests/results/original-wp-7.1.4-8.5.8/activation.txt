@@ -1,0 +1,3 @@
+
+Plugin 'all-in-one-favicon' activated.
+Success: Activated 1 of 1 plugins.

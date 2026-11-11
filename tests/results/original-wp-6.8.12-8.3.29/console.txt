@@ -1,0 +1,15 @@
+==============================================================
+CAS : original / WordPress wp-6.8.12 / PHP 8.3.29
+==============================================================
+VERT   T1 activation                                  aucune erreur fatale, 0 diagnostic
+PAGE_ID=4 PERMALINK=http://127.0.0.1:8094/?p=4
+ROUGE  T2 front public                                5 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T3 tableau de bord admin                       12 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T4 ecran de reglages du plugin                 14 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T5 enregistrement des reglages                 17 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T6 suppression des reglages                    31 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T7 pages annexes du plugin                     48 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+ROUGE  T8 rendu du favicon (front)                    5 diagnostic(s) : all-in-one-favicon.php on line 96;includes/aio-favicon-frontend.php on line 29;includes/favicon-render-helper.php on line 28;includes/favicon-render-helper.php on line 29;
+
+RESULTATS : 1 vert(s), 7 rouge(s)
+VERDICT : ROUGE

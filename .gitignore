@@ -1,0 +1,13 @@
+# Ces repertoires n'existent que dans l'arbaitre de travail local
+# (installations WordPress de test, code officiel telecharge, journaux de
+# debogage) : ils ne doivent jamais etre pousses.
+/env/
+/logs/
+/original/
+/tools/
+
+# Fichiers temporaires
+*.sqlite
+*.sqlite-journal
+*.zip
+.DS_Store

@@ -1,0 +1,34 @@
+[Wed Nov 11 17:06:22 2026] PHP 8.5.8 Development Server (http://127.0.0.1:8093) started
+[Wed Nov 11 17:06:22 2026] 127.0.0.1:39858 Accepted
+[Wed Nov 11 17:06:23 2026] 127.0.0.1:39858 [200]: GET /
+[Wed Nov 11 17:06:23 2026] 127.0.0.1:39858 Closing
+[Wed Nov 11 17:06:25 2026] 127.0.0.1:36442 Accepted
+[Wed Nov 11 17:06:25 2026] 127.0.0.1:36442 [200]: GET /?p=4
+[Wed Nov 11 17:06:25 2026] 127.0.0.1:36442 Closing
+[Wed Nov 11 17:06:25 2026] 127.0.0.1:36458 Accepted
+[Wed Nov 11 17:06:28 2026] 127.0.0.1:36458 [200]: GET /wp-admin/index.php
+[Wed Nov 11 17:06:28 2026] 127.0.0.1:36458 Closing
+[Wed Nov 11 17:06:28 2026] 127.0.0.1:36470 Accepted
+[Wed Nov 11 17:06:28 2026] 127.0.0.1:36470 [200]: GET /wp-admin/admin.php?page=all-in-one-favicon
+[Wed Nov 11 17:06:28 2026] 127.0.0.1:36470 Closing
+[Wed Nov 11 17:06:29 2026] 127.0.0.1:36482 Accepted
+[Wed Nov 11 17:06:29 2026] 127.0.0.1:36482 [302]: POST /wp-admin/admin-post.php
+[Wed Nov 11 17:06:29 2026] 127.0.0.1:36482 Closing
+[Wed Nov 11 17:06:29 2026] 127.0.0.1:36488 Accepted
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36488 [302]: POST /wp-admin/admin-post.php
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36488 Closing
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36498 Accepted
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36498 [200]: GET /wp-admin/admin.php?page=all-in-one-favicon-plugin-other-tools
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36498 Closing
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36510 Accepted
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36510 [302]: GET /wp-admin/admin.php?page=aiof_go_appsumo_pro
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36510 Closing
+[Wed Nov 11 17:06:30 2026] 127.0.0.1:36514 Accepted
+[Wed Nov 11 17:06:31 2026] 127.0.0.1:36514 [200]: GET /wp-admin/options-general.php
+[Wed Nov 11 17:06:31 2026] 127.0.0.1:36514 Closing
+[Wed Nov 11 17:06:31 2026] 127.0.0.1:36524 Accepted
+[Wed Nov 11 17:06:31 2026] 127.0.0.1:36524 [200]: GET /wp-admin/upload.php
+[Wed Nov 11 17:06:31 2026] 127.0.0.1:36524 Closing
+[Wed Nov 11 17:06:32 2026] 127.0.0.1:36540 Accepted
+[Wed Nov 11 17:06:32 2026] 127.0.0.1:36540 [200]: GET /?p=4
+[Wed Nov 11 17:06:32 2026] 127.0.0.1:36540 Closing

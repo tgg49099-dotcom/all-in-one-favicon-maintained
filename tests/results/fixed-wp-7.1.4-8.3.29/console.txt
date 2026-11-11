@@ -1,0 +1,15 @@
+==============================================================
+CAS : fixed / WordPress wp-7.1.4 / PHP 8.3.29
+==============================================================
+VERT   T1 activation                                  aucune erreur fatale, 0 diagnostic
+PAGE_ID=4 PERMALINK=http://127.0.0.1:8093/?p=4
+VERT   T2 front public                                HTTP 200, 0 diagnostic
+VERT   T3 tableau de bord admin                       HTTP 200, 0 diagnostic
+VERT   T4 ecran de reglages du plugin                 HTTP 200, formulaire present, 0 diagnostic
+VERT   T5 enregistrement des reglages                 option aio-favicon_settings enregistree, 0 diagnostic
+VERT   T6 suppression des reglages                    option supprimee, 0 diagnostic
+VERT   T7 pages annexes du plugin                     4 pages HTTP 200/302, 0 diagnostic
+VERT   T8 rendu du favicon (front)                    balise <link rel=icon> presente, 0 diagnostic
+
+RESULTATS : 8 vert(s), 0 rouge(s)
+VERDICT : VERT

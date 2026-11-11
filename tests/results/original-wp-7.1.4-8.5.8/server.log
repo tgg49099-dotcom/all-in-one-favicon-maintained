@@ -1,0 +1,34 @@
+[Wed Nov 11 17:05:17 2026] PHP 8.5.8 Development Server (http://127.0.0.1:8093) started
+[Wed Nov 11 17:05:17 2026] 127.0.0.1:51984 Accepted
+[Wed Nov 11 17:05:18 2026] 127.0.0.1:51984 [200]: GET /
+[Wed Nov 11 17:05:18 2026] 127.0.0.1:51984 Closing
+[Wed Nov 11 17:05:20 2026] 127.0.0.1:51998 Accepted
+[Wed Nov 11 17:05:20 2026] 127.0.0.1:51998 [200]: GET /?p=4
+[Wed Nov 11 17:05:20 2026] 127.0.0.1:51998 Closing
+[Wed Nov 11 17:05:20 2026] 127.0.0.1:52012 Accepted
+[Wed Nov 11 17:05:23 2026] 127.0.0.1:52012 [200]: GET /wp-admin/index.php
+[Wed Nov 11 17:05:23 2026] 127.0.0.1:52012 Closing
+[Wed Nov 11 17:05:23 2026] 127.0.0.1:52024 Accepted
+[Wed Nov 11 17:05:24 2026] 127.0.0.1:52024 [200]: GET /wp-admin/admin.php?page=all-in-one-favicon
+[Wed Nov 11 17:05:24 2026] 127.0.0.1:52024 Closing
+[Wed Nov 11 17:05:24 2026] 127.0.0.1:40436 Accepted
+[Wed Nov 11 17:05:24 2026] 127.0.0.1:40436 [302]: POST /wp-admin/admin-post.php
+[Wed Nov 11 17:05:24 2026] 127.0.0.1:40436 Closing
+[Wed Nov 11 17:05:25 2026] 127.0.0.1:40438 Accepted
+[Wed Nov 11 17:05:25 2026] 127.0.0.1:40438 [302]: POST /wp-admin/admin-post.php
+[Wed Nov 11 17:05:25 2026] 127.0.0.1:40438 Closing
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40444 Accepted
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40444 [200]: GET /wp-admin/admin.php?page=all-in-one-favicon-plugin-other-tools
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40444 Closing
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40446 Accepted
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40446 [302]: GET /wp-admin/admin.php?page=aiof_go_appsumo_pro
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40446 Closing
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40452 Accepted
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40452 [200]: GET /wp-admin/options-general.php
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40452 Closing
+[Wed Nov 11 17:05:26 2026] 127.0.0.1:40460 Accepted
+[Wed Nov 11 17:05:27 2026] 127.0.0.1:40460 [200]: GET /wp-admin/upload.php
+[Wed Nov 11 17:05:27 2026] 127.0.0.1:40460 Closing
+[Wed Nov 11 17:05:27 2026] 127.0.0.1:40474 Accepted
+[Wed Nov 11 17:05:28 2026] 127.0.0.1:40474 [200]: GET /?p=4
+[Wed Nov 11 17:05:28 2026] 127.0.0.1:40474 Closing

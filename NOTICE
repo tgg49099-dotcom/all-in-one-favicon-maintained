@@ -1,0 +1,97 @@
+All In One Favicon - compatibility fork - NOTICE
+===============================================
+
+Plugin:            All In One Favicon
+Slug:              all-in-one-favicon
+Original version:  4.8 (released on WordPress.org on 2023-08-08)
+Original author:   Arne Franken, maintained on WordPress.org by
+                    Garrett Grimm ("techotronic", profile "grimmdude")
+                    https://profiles.wordpress.org/grimmdude/
+                    http://www.techotronic.de/plugins/all-in-one-favicon/
+Original page:     https://wordpress.org/plugins/all-in-one-favicon/
+Licence:           GPL, as declared by the plugin header ("License: GPL").
+                    The source header of all-in-one-favicon.php refers to
+                    "the GNU General Public License". The readme.txt of the
+                    official release carries NO "License:" line, so the exact
+                    version is not written down in the release itself.
+Copyright:         (c) Arne Franken / techotronic.de. The original copyright
+                    notice is kept unchanged in every redistributed file.
+
+Official ZIP used as the source of this fork:
+https://downloads.wordpress.org/plugin/all-in-one-favicon.4.8.zip
+md5 f4d3146d5aca7def9fd1694a831084cb   (140576 bytes)
+
+This repository is an UNOFFICIAL compatibility fork maintained by Tgg Labs
+(https://github.com/tgg49099-dotcom).
+
+WHO DOES WHAT
+-------------
+* Arne Franken / Garrett Grimm ("techotronic") are the authors of All In One
+  Favicon. They own the plugin code, the plugin name, the WordPress.org plugin
+  directory entry, the readme.txt contents, the translations, the AppSumo offer
+  and the donations box.
+* Tgg Labs wrote ONLY the compatibility patches listed in CHANGELOG-COMPAT.md, the
+  test harness in tests/, and the packaging of this repository. Tgg Labs is not the
+  author of All In One Favicon, does not sell it, does not own the wordpress.org
+  listing, and does not host any paid version of it.
+* Every file of the official 4.8 release is redistributed here unchanged, with its
+  original copyright notice intact, except for the four PHP files that carry the
+  compatibility patches. The patches are marked with comments in the code, and the
+  exact diff is in CHANGELOG-COMPAT.md.
+
+COMMERCIAL SIDE AND SUPPORT
+----------------------------
+The commercial side of the plugin - its AppSumo offer, its donations box - and the
+support of the original author remain the property of the original author
+(http://www.techotronic.de/plugins/all-in-one-favicon/). This fork contains no part
+of that commercial side, does not redistribute it, does not provide support for it,
+and does not claim any right over it. There is no "paid tier" of this fork.
+
+NO PUBLICATION
+--------------
+Nothing in this repository has been submitted to the WordPress.org plugin directory,
+and the `all-in-one-favicon` slug there is not affected by this fork. The
+WordPress.org page, its reviews, its support forum and its SVN repository remain
+under the control of the original author.
+
+LICENCE
+-------
+This fork is distributed under the same licence as the original plugin: the GNU
+General Public License, version 2 or (at your option) any later version. The full
+text of the GNU General Public License version 2 is in the LICENSE file.
+
+The original 4.8 ZIP published on WordPress.org contained no copy of the licence
+text itself; the LICENSE file of this repository supplies the GNU General Public
+License version 2, unchanged and in full. The plugin's own headers declare only
+"License: GPL" without a version number, and its readme.txt declares no licence at
+all: the author may want to spell out the exact version there.
+
+THIRD-PARTY CODE
+----------------
+The 4.8 release bundles no third-party library. The JavaScript files in
+all-in-one-favicon/js/ are the plugin's own scripts; the media-modal code they
+extend (wp.media, jQuery, Underscore, Backbone) is loaded by WordPress itself from
+the WordPress installation, under the licences of those projects. The images in
+all-in-one-favicon/images/, the files in all-in-one-favicon/styles/ and
+all-in-one-favicon/scripts/, and the translation files in
+all-in-one-favicon/localization/ are the original author's own work.
+
+None of these files was modified by this fork.
+
+SOURCE OF THE FIGURES
+---------------------
+The `readme.txt` shipped inside the official 4.8 ZIP and the `readme.txt` in the
+plugin's own SVN trunk both declare `Tested up to: 6.2`, while the official
+WordPress.org plugin API currently displays `Tested up to: 6.2.15`. Both figures are
+quoted as they are, from their respective sources; this fork does not change any of
+them. The plugin API reports `Requires at least: 2.8` and no `Requires PHP` value.
+
+SECURITY REPORTS LEFT ALONE
+----------------------------
+In March 2023 two threads on the plugin's public support forum reported a
+directory-traversal weakness ("vulnerable to Directory Traversal - critical threat",
+"CRITICAL > Security Threat | Plugin abandoned?"); a third thread in January 2024
+reported that the plugin produced PHP 8.2 notices. Those reports were never
+answered by the author. The security question belongs to the author and is not a
+compatibility question, so this fork changes no line of the code concerned; the
+reports are referenced here only so that the author sees them.
